@@ -4,6 +4,7 @@
 		"catchphrase": "Cracker.",
     "price": 1,
     "status": "older",
+    "decal": 6360359101,
     "editions": ["dumb","stupid"],
     "specifications": {
           "dumb": ["british", "never touched woman"],
@@ -16,6 +17,7 @@
 		"catchphrase": "Black",
     "price": 99,
     "status": "latest",
+    "decal": 6360061769,
     "editions": ["COT","WAT"],
     "features": {
           "dumb": ["jamacian", "ok"],
