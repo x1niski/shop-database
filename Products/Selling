@@ -3,6 +3,7 @@
 		"name": "Daniel_Stratan4",
 		"catchphrase": "Cracker.",
     "price": 1,
+    "status": "older",
     "editions": ["dumb","stupid"],
     "specifications": {
           "dumb": ["british", "never touched woman"],
@@ -14,6 +15,7 @@
 		"name": "SlickGamingTM",
 		"catchphrase": "Black",
     "price": 99,
+    "status": "latest",
     "editions": ["COT","WAT"],
     "features": {
           "dumb": ["jamacian", "ok"],
