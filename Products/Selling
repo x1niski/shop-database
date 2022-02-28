@@ -2,7 +2,7 @@
 	"Daniel_Stratan4": {
 		"name": "Daniel_Stratan4",
 		"catchphrase": "Cracker.",
-    "price": 1
+    "price": 1,
     "editions": ["dumb","stupid"],
     "features": {
           "dumb": ["doesnt use brain", "needs some bitches in his life"],
@@ -13,7 +13,7 @@
   "SlickGamingTM": {
 		"name": "SlickGamingTM",
 		"catchphrase": "Black",
-    "price": 99
+    "price": 99,
     "editions": ["COT","WAT"],
     "features": {
           "dumb": ["idk", "ok"],
