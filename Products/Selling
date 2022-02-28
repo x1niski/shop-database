@@ -20,8 +20,8 @@
     "decal": "http://www.roblox.com/asset/?id=6360061764",
     "editions": ["COT","WAT"],
     "specifications": {
-          "dumb": ["jamacian", "ok"],
-          "stupid": ["roblox football", "XD"]
+          "COT": ["jamacian", "ok"],
+          "WAT": ["roblox football", "XD"]
         }
 }
 }
