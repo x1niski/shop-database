@@ -4,7 +4,7 @@
 		"catchphrase": "Cracker.",
     "price": 1,
     "status": "older",
-    "decal": http://www.roblox.com/asset/?id=6360359095,
+    "decal": "http://www.roblox.com/asset/?id=6360359095",
     "editions": ["dumb","stupid"],
     "specifications": {
           "dumb": ["british", "never touched woman"],
@@ -17,7 +17,7 @@
 		"catchphrase": "Black",
     "price": 99,
     "status": "latest",
-    "decal": http://www.roblox.com/asset/?id=6360061764,
+    "decal": "http://www.roblox.com/asset/?id=6360061764",
     "editions": ["COT","WAT"],
     "features": {
           "dumb": ["jamacian", "ok"],
